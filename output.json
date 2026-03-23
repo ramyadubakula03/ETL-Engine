@@ -1,0 +1,22 @@
+{
+  "Engineering": {
+    "count": 3,
+    "total_salary": 305000.0,
+    "avg_salary": 101666.67
+  },
+  "Marketing": {
+    "count": 1,
+    "total_salary": 75000.0,
+    "avg_salary": 75000.0
+  },
+  "Sales": {
+    "count": 1,
+    "total_salary": 85000.0,
+    "avg_salary": 85000.0
+  },
+  "Management": {
+    "count": 1,
+    "total_salary": 150000.0,
+    "avg_salary": 150000.0
+  }
+}
